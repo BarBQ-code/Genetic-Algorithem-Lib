@@ -54,6 +54,7 @@ static double FitnessFunction(int index)
 
 Main:
 ```csharp
+ga = new GeneticAlgorithem<char>(populationSize, target.Length, rnd, GetRandomChar, FitnessFunction, mutationRate);
 while(true)
 {
     ga.NewGeneration();
