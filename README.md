@@ -75,7 +75,7 @@ DateTime end = DateTime.Now;
 Console.WriteLine($"Total time for answer: {end - start}");
 
 ```
-OutPut:
+Output:
 ```
      Gen: 35          AvgFit: 0.00207339447537894     Current Best: I think therfore I am.
      Total time for answer: 00:00:00.7669279
