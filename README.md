@@ -7,10 +7,12 @@ This Program Tries To Guess The Famous Quote From Rene Descartes "I think theref
 But With Traditional Brute Forcing Techniques This Would Take Ages, This Is Where Genetics Algorithems Come In
 
 The Genetic Algorithem Class Is A Generic Class That Takes The Requires The Follwing: 
+
      public GeneticAlgorithem(int popSize, int dnaSize, Random rnd, Func<T> GetRandomGene, Func<int, double> FitnessFunction, double mutationRate = 0.01)
-popSize = Population Size
-dnaSize = Size Of The Array Genes
-GetRandomGene = Mutation Function
+     
+     popSize = Population Size
+     dnaSize = Size Of The Array Genes
+     GetRandomGene = Mutation Function
 
 Set Up:
 ```csharp
