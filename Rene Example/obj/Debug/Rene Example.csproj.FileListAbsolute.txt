@@ -1,0 +1,10 @@
+C:\Users\mishi\source\repos\Genetic Algorithem\Rene Example\bin\Debug\Rene Example.exe.config
+C:\Users\mishi\source\repos\Genetic Algorithem\Rene Example\bin\Debug\Rene Example.exe
+C:\Users\mishi\source\repos\Genetic Algorithem\Rene Example\bin\Debug\Rene Example.pdb
+C:\Users\mishi\source\repos\Genetic Algorithem\Rene Example\bin\Debug\GeneticLib.dll
+C:\Users\mishi\source\repos\Genetic Algorithem\Rene Example\bin\Debug\GeneticLib.pdb
+C:\Users\mishi\source\repos\Genetic Algorithem\Rene Example\obj\Debug\Rene Example.csprojAssemblyReference.cache
+C:\Users\mishi\source\repos\Genetic Algorithem\Rene Example\obj\Debug\Rene Example.csproj.CoreCompileInputs.cache
+C:\Users\mishi\source\repos\Genetic Algorithem\Rene Example\obj\Debug\Rene Example.csproj.CopyComplete
+C:\Users\mishi\source\repos\Genetic Algorithem\Rene Example\obj\Debug\Rene Example.exe
+C:\Users\mishi\source\repos\Genetic Algorithem\Rene Example\obj\Debug\Rene Example.pdb

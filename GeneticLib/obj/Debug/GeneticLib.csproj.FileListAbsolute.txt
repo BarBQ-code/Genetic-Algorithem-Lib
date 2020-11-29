@@ -1,0 +1,6 @@
+C:\Users\mishi\source\repos\Genetic Algorithem\GeneticLib\bin\Debug\GeneticLib.dll
+C:\Users\mishi\source\repos\Genetic Algorithem\GeneticLib\bin\Debug\GeneticLib.pdb
+C:\Users\mishi\source\repos\Genetic Algorithem\GeneticLib\obj\Debug\GeneticLib.csproj.CoreCompileInputs.cache
+C:\Users\mishi\source\repos\Genetic Algorithem\GeneticLib\obj\Debug\GeneticLib.dll
+C:\Users\mishi\source\repos\Genetic Algorithem\GeneticLib\obj\Debug\GeneticLib.pdb
+C:\Users\mishi\source\repos\Genetic Algorithem\GeneticLib\obj\Debug\GeneticLib.csprojAssemblyReference.cache
