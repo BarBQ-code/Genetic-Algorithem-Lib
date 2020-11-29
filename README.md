@@ -16,6 +16,8 @@ The Genetic Algorithem Class Is A Generic Class That Takes The Requires The Foll
 
 Set Up:
 ```csharp
+using GeneticLib; //Add as a reference
+
 static int populationSize = 500;
 static string target = "I think therfore I am.";
 static string validChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.!?,'– ";
