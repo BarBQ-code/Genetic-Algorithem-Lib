@@ -57,7 +57,7 @@ static double FitnessFunction(int index)
 Main:
 ```csharp
 ga = new GeneticAlgorithem<char>(populationSize, target.Length, rnd, GetRandomChar, FitnessFunction, mutationRate);
-DateTime start = DateTime.Now;
+
 
 while(true)
 {
@@ -73,12 +73,11 @@ while(true)
     if (ga.BestFitness == 1)
         break;
 }
-DateTime end = DateTime.Now;
-Console.WriteLine($"Total time for answer: {end - start}");
+
+
 
 ```
 Output:
 ```
      Gen: 35          AvgFit: 0.00207339447537894     Current Best: I think therfore I am.
-     Total time for answer: 00:00:00.7669279
 ```
