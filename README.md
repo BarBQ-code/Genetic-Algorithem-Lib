@@ -6,7 +6,7 @@ About The Example:
 This Program Tries To Guess The Famous Quote From Rene Descartes "I think therefore I am" Or Any Other Quote For That Matter
 But With Traditional Brute Forcing Techniques This Would Take Ages, This Is Where Genetics Algorithems Come In
 
-The Genetic Algorithem Class Is A Generic Class That Takes The Requires The Follwing: 
+The Genetic Algorithem Class Is A Generic Class That Requires The Follwing: 
 
      public GeneticAlgorithem(int popSize, int dnaSize, Random rnd, Func<T> GetRandomGene, Func<int, double> FitnessFunction, double mutationRate = 0.01)
      
